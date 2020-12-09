@@ -1,0 +1,4 @@
+Algorithm Results(Average)
+GM = 0.059 
+HIST = 0.023
+HMM = 0.04
